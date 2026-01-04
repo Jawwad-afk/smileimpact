@@ -40,12 +40,12 @@ const Header: React.FC<HeaderProps> = ({ activePage, onNavigate }) => {
              <img 
                 src="https://smileimpact.pk/assets/SmileImpact-logo.png" 
                 alt="Smile Impact" 
-                className="h-16 md:h-24 w-auto object-contain transition-transform duration-500 group-hover:scale-105"
+                // className="h-16 md:h-24 w-auto object-contain transition-transform duration-500 group-hover:scale-105"
              />
           </div>
           <div className="hidden sm:flex flex-col">
             <span className="text-xl font-black text-primary-700 tracking-tighter leading-none">SMILE IMPACT</span>
-            <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">Karachi Dental</span>
+            <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest"></span>
           </div>
         </div>
 
