@@ -172,7 +172,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ onNavigate }) => {
               </div>
               <h1 className="text-6xl md:text-8xl font-black text-gray-900 leading-[0.9] mb-8 tracking-tighter uppercase">
                   SMILE IMPACT. <br/>
-                  <span className="text-primary-600 text-4xl md:text-6xl">NOW IN 2 LOCATIONS.</span>
+                  <span className="text-primary-600 text-4xl md:text-6xl">NOW  IN  2  LOCATIONS.</span>
               </h1>
               <p className="text-xl text-gray-600 max-w-lg mb-10 font-medium leading-relaxed">
                   <strong className="text-primary-700">Smile Impact Karachi</strong> led by Dr. Zeeshan Faiz is now open in <span className="text-gray-900 font-bold underline decoration-primary-300">Mohammad Ali Society (MACHS)</span> and DHA Phase 5.
