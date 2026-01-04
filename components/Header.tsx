@@ -40,7 +40,7 @@ const Header: React.FC<HeaderProps> = ({ activePage, onNavigate }) => {
              <img 
                 src="https://smileimpact.pk/assets/SmileImpact-logo.png" 
                 alt="Smile Impact" 
-                // className="h-16 md:h-24 w-auto object-contain transition-transform duration-500 group-hover:scale-105"
+                className="h-16 md:h-24 w-auto object-contain transition-transform duration-500 group-hover:scale-105"
              />
           </div>
           <div className="hidden sm:flex flex-col">
