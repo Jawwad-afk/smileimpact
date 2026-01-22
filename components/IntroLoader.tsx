@@ -40,7 +40,7 @@ const IntroLoader: React.FC<IntroLoaderProps> = ({ onComplete }) => {
           { rotate: 0 }
         }
         transition={{ duration: 0.8, ease: "easeInOut" }}
-        className="relative w-80 h-80 flex items-center justify-center"
+        className="relative w-96 h-96 flex items-center justify-center"
       >
         <img 
             src="https://smileimpact.pk/assets/SmileImpact-logo.png" 
